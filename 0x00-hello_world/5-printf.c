@@ -3,8 +3,7 @@
  * main Entry point
  *
  * Description: Using the main function
- * this prints "programming is like building 
- * a multilingual puzzle"
+ * this prints "programming is like building"
  * Return: Always 0 (success)
  */
 int main(void)
